@@ -26,8 +26,8 @@ lock_socket = single_instance()
 
 
 # CONFIGURATION
-CHECK_URL = "https://example.com"
-TARGET_STRING = "Online"
+CHECK_URL = "https://integrity.st/"
+TARGET_STRING = "Du ansluter via"
 CHECK_INTERVAL = 30  # in seconds
 
 # ICONS
